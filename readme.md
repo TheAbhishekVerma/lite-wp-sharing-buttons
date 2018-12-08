@@ -10,7 +10,7 @@ Follow the steps below, to add these light weight sharing buttons on your WordPr
 4. Now next thing is CSS, after HTML you'll get a section of CSS on the page copy it and go to your theme customizer and then to Additional CSS and paste that CSS code there and click on Publish button.
 That's it!
 ---
-If you have any issue after adding sharing buttons then please contact me on [Twitter](https://www.twitter.com/TheProAbhishek
+If you have any issue after adding sharing buttons then please contact me on [Twitter](https://www.twitter.com/TheProAbhishek).
 
 Read my blog for WordPress guides : [ChampHub.net](https://www.champhub.net/)
 
