@@ -5,6 +5,6 @@ h3{text-align:center;}
 h4{text-align:center;}
 p{text-align:center;}
 .copyright{text-align:center; background:black; color:white; border-top:4px #0080e0;}
-.html{background:Black; padding:5px; border-bottom:3px #0080e0;color:white;}
-.css{background:black; padding:5px; border-bottom:3px #0080e0;color:white;}
-.demo{background:black; padding:5px; border-bottom:3px #0080e0;color:white;}
+.html{background:Black; padding:5px; border-bottom:30px #0080e0;color:white;}
+.css{background:black; padding:5px; border-bottom:30px #0080e0;color:white;}
+.demo{background:black; padding:5px; border-bottom:30px #0080e0;color:white;}
